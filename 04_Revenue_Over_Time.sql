@@ -69,5 +69,5 @@ WITH revenues AS (
 SELECT month_year,
        avg(revenue_month) OVER (ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) AS rolling_avg
        -- window of rows that the function operates on is three rows in size, 
-	   -- starting with 2 rows preceding until and including the current row
+       -- starting with 2 rows preceding until and including the current row
 FROM revenues
