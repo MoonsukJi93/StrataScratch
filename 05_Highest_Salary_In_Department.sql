@@ -3,7 +3,7 @@
 
 -- My Solution:
 
-WITH max_salary as(
+WITH max_salary AS(
     SELECT
         department,
         MAX(salary)
