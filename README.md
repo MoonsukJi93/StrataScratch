@@ -1,3 +1,3 @@
 # StrataScratch
 StrataScratch
-07 & 09 Generates different output likely due to changes in database.
+06_Rank_Variance_Per_Country.sql & 09_Lowest_Revenue_Generated_Restaurants generates different output likely due to changes in database.
