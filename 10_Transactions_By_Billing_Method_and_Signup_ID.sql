@@ -1,3 +1,5 @@
+-- URL: https://platform.stratascratch.com/coding/2031-transactions-by-billing-method-and-signup-id?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link
+-- YouTube: https://www.youtube.com/watch?v=2iE3JgNTwVU&list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX&index=10
 
 -- My Solution:
   -- 1. Understand my data
