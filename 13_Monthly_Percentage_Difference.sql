@@ -1,3 +1,6 @@
+-- URL: https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link
+-- YouTube: https://www.youtube.com/watch?v=QenwDm5oWdU&list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX&index=13
+
 -- 1. Explore underlying data
   -- Study the columns: 
     -- created_at (object -- this datatype is varchar or text datatype, so need to convert this to varchar)
